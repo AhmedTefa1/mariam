@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/mariam/static/css/main.039bf95e.css",
+    "main.js": "/mariam/static/js/main.5f1020bc.js",
+    "static/media/Hello.gif": "/mariam/static/media/Hello.d93720933c608f6178fb.gif",
+    "static/media/Mariam Badr Flutter Dev CV .pdf": "/mariam/static/media/Mariam Badr Flutter Dev CV .09495f61ae8418ae541a.pdf",
+    "static/media/VinayakSingh.webp": "/mariam/static/media/VinayakSingh.d5ea3f984268ce805e54.webp",
+    "static/media/illustration.svg": "/mariam/static/media/illustration.cf4b7a67f23b684549c4f797c62b527a.svg",
+    "static/media/react-icon.svg": "/mariam/static/media/react-icon.e31d05326d79882d2a23ed40aaf4a342.svg",
+    "static/media/sass-icon.svg": "/mariam/static/media/sass-icon.e31d05326d79882d2a23ed40aaf4a342.svg",
+    "static/media/whatsapp.svg": "/mariam/static/media/whatsapp.459dad86534ca5699520ed770f3ce605.svg",
+    "index.html": "/mariam/index.html",
+    "static/media/vue-icon.svg": "/mariam/static/media/vue-icon.d26fafafcca6031a799e7794225c5f06.svg",
+    "static/media/wordpress.svg": "/mariam/static/media/wordpress.d26fafafcca6031a799e7794225c5f06.svg",
+    "static/media/bootstrap-icon.svg": "/mariam/static/media/bootstrap-icon.e9d6b5424508db6397a027a4e0fe0dd0.svg",
+    "static/media/phone-icon.svg": "/mariam/static/media/phone-icon.91617f27ac814ef5f29b533ab3d256ec.svg",
+    "static/media/shopify.svg": "/mariam/static/media/shopify.162913e43c02c125fd0720d80fc0dba3.svg",
+    "static/media/github.svg": "/mariam/static/media/github.d344c0fc70ddfb6de253ddc40adcb086.svg",
+    "static/media/html-icon.svg": "/mariam/static/media/html-icon.d344c0fc70ddfb6de253ddc40adcb086.svg",
+    "static/media/email-icon.svg": "/mariam/static/media/email-icon.a83578f914460e952501546655b76165.svg",
+    "static/media/external-link.svg": "/mariam/static/media/external-link.74ce2401d684101cc83125c6dac8ce9c.svg",
+    "static/media/css-icon.svg": "/mariam/static/media/css-icon.c3e6cdf458a9c6b46732986096ee7604.svg",
+    "static/media/java.svg": "/mariam/static/media/java.c3e6cdf458a9c6b46732986096ee7604.svg",
+    "static/media/typescript-icon.svg": "/mariam/static/media/typescript-icon.c47d8e2608547bf986608f7e671b7dd5.svg",
+    "static/media/linkedin.svg": "/mariam/static/media/linkedin.4f00d78f67f451cf01173f7418aa186f.svg",
+    "static/media/python.svg": "/mariam/static/media/python.25f22a567405bee68b37577686329b1f.svg",
+    "static/media/js-icon.svg": "/mariam/static/media/js-icon.0d5ec3e60614ea8e4d7abbf0729e969b.svg",
+    "main.039bf95e.css.map": "/mariam/static/css/main.039bf95e.css.map",
+    "main.5f1020bc.js.map": "/mariam/static/js/main.5f1020bc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.039bf95e.css",
+    "static/js/main.5f1020bc.js"
+  ]
+}
