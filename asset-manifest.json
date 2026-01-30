@@ -1,10 +1,9 @@
 {
   "files": {
     "main.css": "/mariam/static/css/main.1f7902d6.css",
-    "main.js": "/mariam/static/js/main.ff91b79f.js",
+    "main.js": "/mariam/static/js/main.3f5794c9.js",
     "static/media/Hello.gif": "/mariam/static/media/Hello.d93720933c608f6178fb.gif",
     "static/media/Mariam Badr Flutter Dev CV .pdf": "/mariam/static/media/Mariam Badr Flutter Dev CV .09495f61ae8418ae541a.pdf",
-    "static/media/VinayakSingh.webp": "/mariam/static/media/VinayakSingh.6d206d8a000dec260dda.webp",
     "static/media/illustration.svg": "/mariam/static/media/illustration.cf4b7a67f23b684549c4f797c62b527a.svg",
     "static/media/react-icon.svg": "/mariam/static/media/react-icon.e31d05326d79882d2a23ed40aaf4a342.svg",
     "static/media/sass-icon.svg": "/mariam/static/media/sass-icon.e31d05326d79882d2a23ed40aaf4a342.svg",
@@ -25,10 +24,10 @@
     "static/media/python.svg": "/mariam/static/media/python.25f22a567405bee68b37577686329b1f.svg",
     "static/media/js-icon.svg": "/mariam/static/media/js-icon.0d5ec3e60614ea8e4d7abbf0729e969b.svg",
     "main.1f7902d6.css.map": "/mariam/static/css/main.1f7902d6.css.map",
-    "main.ff91b79f.js.map": "/mariam/static/js/main.ff91b79f.js.map"
+    "main.3f5794c9.js.map": "/mariam/static/js/main.3f5794c9.js.map"
   },
   "entrypoints": [
     "static/css/main.1f7902d6.css",
-    "static/js/main.ff91b79f.js"
+    "static/js/main.3f5794c9.js"
   ]
 }
